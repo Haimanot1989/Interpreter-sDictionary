@@ -1,0 +1,2 @@
+# Interpreter-sDictionary
+This has been on my mind for a long time. I have worked on and off as an Tigrina(Eritrean)-Norwegian interpreter. While interpreting, reading something or listening radio, I encounter words and phrases that are new to me. It is quite tedious to register it in a simple file or a book. So what I desire to do is, to have an app/webapp that will allow me to register these words and phrases with their translations. I want to do it in a least time consuming way. And I want it to be easily searchable in such a way that it can be used while translating.
